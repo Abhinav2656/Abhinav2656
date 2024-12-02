@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhinav2656 (Full Name : Abhinav Pandey)
-- 👀 I’m interested in coding and learning programming languages.
+- 👀 I’m interested in coding, learning programming languages and data science enthusiast.
 - 🌱 I’m currently learning python and many other. I am also pursuing Btech in Computer Science Engineering.
 - 💞️ I’m looking to collaborate on projects on GitHub or on anyother platform.
 - 📫 You can reach me on LinkedIn :-linkedin.com/in/abhinav-pandey-613648180 
