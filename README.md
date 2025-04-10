@@ -1,10 +1,66 @@
-- 👋 Hi, I’m @Abhinav2656 (Full Name : Abhinav Pandey)
-- 👀 I’m interested in coding, learning programming languages and data science enthusiast.
-- 🌱 I’m currently learning python and many other. I am also pursuing Btech in Computer Science Engineering.
-- 💞️ I’m looking to collaborate on projects on GitHub or on anyother platform.
-- 📫 You can reach me on LinkedIn :-linkedin.com/in/abhinav-pandey-613648180 
-- 😄 Pronouns: Call em Abhi !!
-- ⚡ Fun fact: I didn't had interest in coding till class 9 not even in computer science subject.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=800&height=50&lines=Hi+there!+I'm+Abhinav+Pandey;A+Passionate+Coder+%26+Data+Science+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+<h1 align="center">Hi there! 👋 I'm Abhinav Pandey</h1>
+<h3 align="center">A passionate self-learner, coder & data science enthusiast from India 🇮🇳</h3>
+
+---
+
+### 🌟 About Me  
+- 👨‍💻 I’m currently pursuing **B.Tech in Computer Science Engineering**  
+- 🐍 Currently learning: **Python**, Data Science & Backend Development  
+- 🚀 Exploring exciting projects in AI, ML, and full-stack development  
+- 🤝 I’m open to **collaboration** on GitHub or any platform  
+- 🧠 Love solving real-world problems through code  
+- 😄 Pronouns: **Call me Abhi**  
+- ⚡ Fun Fact: I had zero interest in coding until class 9 👶💻
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav2656&show_icons=true&theme=radical" alt="Abhi's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav2656&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-pandey-613648180)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinavpandey1037@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+---
+
+### 🚀 Quote I Live By
+> _“The best way to predict the future is to invent it.”_ – Alan Kay
+
+---
+
+### 🧠 Currently Working On
+- 🛠️ ML Model Deployment Hub using Django & Scikit-learn  
+- 📊 Data Science Projects using real-world datasets  
+- 🤖 Exploring AI Agents and Autonomous Systems  
+
+---
+
+![Thanks for visiting!](https://visitcount.itsvg.in/api?id=Abhinav2656&icon=0&color=0)
+
 
 <!---
 Abhinav2656/Abhinav2656 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
