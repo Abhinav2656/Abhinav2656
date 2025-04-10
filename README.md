@@ -33,10 +33,6 @@
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav2656&show_icons=true&theme=radical" alt="Abhi's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav2656&theme=radical" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav2656&layout=compact&theme=radical" />
 </p>
 
