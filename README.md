@@ -36,6 +36,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abhinav2656&show_icons=true&theme=radical" alt="Abhi's GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav2656&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav2656&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -56,10 +58,6 @@
 - 🛠️ ML Model Deployment Hub using Django & Scikit-learn  
 - 📊 Data Science Projects using real-world datasets  
 - 🤖 Exploring AI Agents and Autonomous Systems  
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Abhinav2656&label=Profile%20Views&color=12&icon=1)
 
 
 <!---
