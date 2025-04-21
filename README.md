@@ -52,7 +52,7 @@
 
 ### 🧠 Currently Working On
 - 🛠️ ML Model Deployment Hub using Django & Scikit-learn  
-- 📊 Data Science Projects using real-world datasets  
+- Getting industry ready for Data Science and Backend development(python).
 - 🤖 Exploring AI Agents and Autonomous Systems  
 
 
