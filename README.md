@@ -36,13 +36,6 @@
 
 ---
 
-### 📈 Execution Metrics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav2656&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📫 The Network
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-pandey-613648180) 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinavpandey1037@gmail.com) 
